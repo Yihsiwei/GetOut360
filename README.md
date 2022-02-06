@@ -6,5 +6,6 @@
 出处：https://www.bilibili.com/video/BV1b34y1U7sH  
 
 压缩包中的Yihsiwei.exe为强制关闭360  
-其他文件为源码，以及编译源码的编译器
+其他文件为源码，以及编译源码的编译器   
+编译生成目录：C:\Users\Public
 
